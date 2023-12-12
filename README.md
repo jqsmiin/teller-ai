@@ -15,9 +15,17 @@ Teller (or TellerAI) is an AI tool which provides you a unique, family-friendly,
 | Whisper  |  Produces audio recitation of your story  | [OpenAI](https://openai.com/)  |
 | Next UI  |  Used to style a big part of the application  | [NextUI](https://nextui.org/)  |
 | Tailwind CSS |  Used as a CSS framework  | [Tailwind CSS](https://tailwindcss.com/)  |
+| MongoDB |  Used for storage  | [MongoDB](https://www.mongodb.com)  |
 
+| Package | Version |
+|---|---|
+| next | 14.0.4 |
 
+## How to run?
 
+[Server-side documentation](https://github.com/Bicom-Systems-Hackathon/salt-valley/blob/stable/server/README.md)
+
+[Client-side documentation](https://github.com/Bicom-Systems-Hackathon/salt-valley/blob/stable/client/README.md)
 
 ## Features
 
@@ -30,9 +38,13 @@ Teller (or TellerAI) is an AI tool which provides you a unique, family-friendly,
 - Share your favourite stories
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/Bicom-Systems-Hackathon/salt-valley/assets/86678700/0d21ec64-5080-41a8-b2d5-6047f6d71c0e)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/Bicom-Systems-Hackathon/salt-valley/assets/86678700/c3847f34-bf52-459c-b805-00240bcaa91f)
+
+![image](https://github.com/Bicom-Systems-Hackathon/salt-valley/assets/86678700/910e9fdf-f19e-494a-ab2f-1b41d4bd516b)
+
+![image](https://github.com/Bicom-Systems-Hackathon/salt-valley/assets/86678700/7d9f9053-aac8-4a8b-87fa-026ffcd1993d)
 
 
 ## Authors
@@ -56,4 +68,3 @@ This project is an AI-integrated project that aims to provide people with unique
 #### Why did you create this project?
 
 This project started on 8th of December 2023 and it represents our solution for Bicom 2023 Hackathon. A deadline for this project is/was 9th of december - until 00:00.
-
